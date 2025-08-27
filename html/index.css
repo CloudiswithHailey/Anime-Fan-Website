@@ -1,0 +1,21 @@
+
+.page {
+    max-width: 800px;
+    flex-flow: column nowrap;
+}
+header {
+    display: flex;
+    flex-flow: row nowrap;
+    
+    order: 1
+}
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    order: 1;
+}
+.links {
+    display: flex;
+    justify-content: flex-end;
+    order: 2;
+}
