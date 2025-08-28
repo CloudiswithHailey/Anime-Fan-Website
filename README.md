@@ -1,2 +1,2 @@
 # Anime-Fan-Website
-A anime appreciation website! Highlighting some of my fav shows and movies &lt;3.
+A anime appreciation website! Highlighting some of my fav shows and movies.
